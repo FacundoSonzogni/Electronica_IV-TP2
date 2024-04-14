@@ -62,6 +62,7 @@ A partir de estas definiciones (y de muchas otras), se observa que en todos los 
 relacionada con el estudio de la estructura y organización de la computadora y con las relaciones entre
 sus componentes. (Beltrán, Guzmán).
 Así, es importante conocer la arquitectura de una computadora para comprender como se debe programar un determinado microprocesador. Asímismo, si se desea diseñar una computadora, se debe tener en cuenta su finalidad para poder elegir la arquitectura más adecuada.
+
 ---------------------------------------------------------------------------------------------------------------
 
 Al realizar la descripción de una computadora, usualmente es necesario realizar una distinción entre lo referido a su **Arquitectura**, de lo que relacionado a su **Microarquitectura** (u Organización). Además, ambos conceptos deben distinguirse del **Software** de la computadora: 
