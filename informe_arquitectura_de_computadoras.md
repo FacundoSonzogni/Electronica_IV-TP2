@@ -9,7 +9,7 @@ Facundo Sonzogni
 Una ***Computadora*** es una Máquina (electrónica y digital), que es capaz de realizar varias tareas, ejecutando una serie de instrucciones provenientes de un Programa, a través de una *Unidad Central de Procesamiento* que recibe datos de entrada, los cuales traslada, almacena y procesa para convertirlos en información que posteriormente se envía a los puertos de salida. Además una computadora puede Cambiar de programa (es decir, si se cambian las instrucciones, la computadora cambia de tarea).
 La anterior NO es una definición rigurosa de una Computadora, pero es suficiente para comprender su funcioamiento y cuáles son los elementos básicos de la misma. A continuación se da una breve descripción de los elementos constitutivos de una Computadora:
 
-![](Imagenes/Elementos_basicos_Computadoras.png)
+![](Imagenes/Elementos_basicos_Computadora.png)
 
 **1) Puertos de Entrada y Salida:** En primer lugar, es claro que la computadora necesita poder interactuar con el mundo real. Esa interacción se realiza a través de los *Dispositivos E/S* (Dispositivos de Entrada/Salida), los cuales se comunican con el procesador a través de los Puertos de E/S incluídos en la computadora.
 Los Dispositivos de entrada envían datos al CPU (el cuál, además recibe instrucciones de qué hacer con dichos datos), que los procesa y los transforma en Información que se envía a los dispositivos de Salida (como un Monitor, unos Auriculares o una Impresora).
